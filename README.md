@@ -35,7 +35,7 @@ Supported mesh files use the single-mesh lightbar layout. Supported ramp texture
 
 ## Get started
 
-1. Download **LightbarEditor.exe** from [Releases](https://github.com/SaveEditors/LightbarEditor/releases/latest). Save it to a writable folder. License notices and SHA-256 checksums are available alongside the executable.
+1. Download **LightbarEditor.exe** from [Releases](https://github.com/prosperoworks/LightbarEditor/releases/latest). Save it to a writable folder. License notices and SHA-256 checksums are available alongside the executable.
 2. Run `LightbarEditor.exe`. The editor opens in your browser; keep its program window running while editing.
 3. Open either asset. The matching asset opens automatically when it is in the same folder. Alternatively, use **Console FTP → Download pair**.
 4. Choose a preset or adjust the strips, particles and ramp texture. Use **Save effect** to save the pair.
@@ -98,7 +98,7 @@ The source for each release is published directly in this repository under its v
 
 ## Support and license
 
-Report reproducible problems through [GitHub Issues](https://github.com/SaveEditors/LightbarEditor/issues). Include the app version, Windows version, action taken and exact error. For rendering issues, include console firmware and a short capture when possible. Remove credentials, private addresses and personal paths from public reports. Do not upload proprietary console assets.
+Report reproducible problems through [GitHub Issues](https://github.com/prosperoworks/LightbarEditor/issues). Include the app version, Windows version, action taken and exact error. For rendering issues, include console firmware and a short capture when possible. Remove credentials, private addresses and personal paths from public reports. Do not upload proprietary console assets.
 
 Copyright © 2026 SaveEditors. Licensed under the **GNU General Public License, version 3 only**; see [LICENSE](LICENSE). Third-party components retain their own licenses. Distributed without warranty.
 
